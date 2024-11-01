@@ -1,0 +1,13 @@
+.hero3{
+    background-image: url('../img/background3.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-bottom: -1rem;
+}
+
+.hero3__coffe{
+    width: 100%; 
+    height: 100%;
+    margin-top: -15rem;
+}
